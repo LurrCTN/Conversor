@@ -44,10 +44,10 @@
   🔨 Funcionalidades del proyecto
 </h2>
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1-
-- `Funcionalidad 2`: descripción de la funcionalidad 2-
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2-
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Conversion de monedas`: puede convertir ARS a varias divisas y viceversa-
+- `Conversion de temperatura`: puede transformar modelos de temperatura entre si-
+- `Conversion de distancias`: puede convertir milimetros a otros tipos de medidas-
+- `Conversion de tiempo`: puede convertir medidas temporales
 
 <h2 id="access">
   📁 Acceso al proyecto
