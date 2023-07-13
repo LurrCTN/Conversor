@@ -18,25 +18,25 @@
     <a href="#title">Titulo</a>
   </li>
   <li>
-    <a href=".badges"></a>
+    <a href=".badges">Insignias</a>
   </li>
   <li>
-    <a href="#funcionalities"></a>
+    <a href="#funcionalities">Funcionalidades</a>
   </li>
   <li>
-    <a href="#access"></a>
+    <a href="#access">Acceso al proyecto</a>
   </li>
   <li>
-    <a href="#exe"></a>
+    <a href="#exe">Ejecutar aplicacion</a>
   </li>
   <li>
-    <a href="#tech"></a>
+    <a href="#tech">Tecnologias usadas</a>
   </li>
   <li>
-    <a href="#exe"></a>
+    <a href="#devs">Desarroladores</a>
   </li>
   <li>
-    <a href="#index"></a>
+    <a href="#index">Indice</a>
   </li>
 </ul>
 
@@ -72,7 +72,7 @@
   <li>Intelijj IDEA</li>
 </ul>
 
-<h2>Autores</h2>
+<h2 id="devs">Autores</h2>
 
 | [<img src="https://avatars.githubusercontent.com/u/121389267?v=4" width=115><br><sub>Luca Francisco Fortin</sub>](https://github.com/lurrCTN) |
 | :---: |
