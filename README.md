@@ -44,9 +44,9 @@
   🔨 Funcionalidades del proyecto
 </h2>
 
-- `Conversion de monedas`: puede convertir ARS a varias divisas y viceversa-
-- `Conversion de temperatura`: puede transformar modelos de temperatura entre si-
-- `Conversion de distancias`: puede convertir milimetros a otros tipos de medidas-
+- `Conversion de monedas`: puede convertir ARS a varias divisas y viceversa
+- `Conversion de temperatura`: puede transformar modelos de temperatura entre si
+- `Conversion de distancias`: puede convertir milimetros a otros tipos de medidas
 - `Conversion de tiempo`: puede convertir medidas temporales
 
 <h2 id="access">
